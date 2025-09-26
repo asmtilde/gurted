@@ -1,0 +1,19 @@
+# GURT Python Client Requirements
+# 
+# This client is designed to use only Python standard library modules
+# to minimize dependencies and ensure broad compatibility.
+#
+# No external dependencies are required!
+#
+# Minimum Python version: 3.7
+# 
+# Standard library modules used:
+# - socket (networking)
+# - ssl (TLS 1.3 support)  
+# - urllib.parse (URL parsing)
+# - json (JSON serialization)
+# - logging (logging support)
+# - argparse (CLI tool)
+# - datetime (timestamps)
+# - enum (enums)
+# - typing (type hints)
